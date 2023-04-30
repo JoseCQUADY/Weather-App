@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Secular One', sans-serif;
+}
+
+body {
+  background: rgb(112, 109, 172);
+  background: linear-gradient(90deg, rgba(112, 109, 172, 1) 0%, rgba(69, 108, 191, 1) 39%, rgba(0, 189, 255, 1) 100%);
+}
+
+.navbar {
+  background: rgb(109, 111, 172);
+  background: linear-gradient(90deg, rgba(109, 111, 172, 1) 0%, rgba(3, 73, 222, 1) 39%, rgba(104, 137, 185, 1) 100%);
+}
+
+.icon {
+  position: absolute;
+}
+
+.card {
+  margin-top: 50px;
+  background: url(../imgs/1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 40vh;
+
+  color: white;
+}
+
+.card-header {
+  position: relative;
+}
+
+.req {
+  margin-top: 20px;
+}
