@@ -1,5 +1,4 @@
 
-
 import './assets/css/App.css';
 import Navbar from './components/Navbar';
 import Form from './components/Form';

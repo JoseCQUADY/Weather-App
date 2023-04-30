@@ -2,7 +2,7 @@
   "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JoseCQUADY/Weather-App",
+  "homepage": "https://josecquady.github.io/Weather-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
